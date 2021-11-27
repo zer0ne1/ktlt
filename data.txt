@@ -1,0 +1,7 @@
+BD, 1, Nguyen Khanh Tung, 01-01-2001, 10
+BD, 2, Nguyen Van A, 04-04-2001, 8.0
+BD, 3, Nguyễn Thị B, 03-02-2001, 8.5
+AN, 4, Nguyễn Văn C, 04-01-2001, 7.6
+BD, 5, Tran Van Tung, 03-04-2001, 9.5
+BD, 6, Ho Nguyen Nguyen, 02-03-2001, 9
+AN, 2, Nguyễn Duy Trinh, 04-06-2001, 8.0
